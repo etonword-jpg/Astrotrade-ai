@@ -1,2 +1,5 @@
 streamlit
-openai
+yfinance
+pandas_ta
+google-generativeai==0.7.2
+ephem
